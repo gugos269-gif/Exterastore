@@ -1,0 +1,16 @@
+{
+  "name": "Мой exteraStore",
+  "description": "Пользовательский каталог плагинов",
+  "author": "gugos269-glf",
+  "plugins": [
+    {
+      "id": "my_first_plugin",
+      "name": "Тестовый плагин",
+      "description": "Описание плагина",
+      "version": "1.0.0",
+      "author": "gugos269-glf",
+      "url": "https://githubusercontent.com"
+    }
+  ]
+}
+
