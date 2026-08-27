@@ -1,15 +1,15 @@
 {
-  "name": "Мой exteraStore",
-  "description": "Пользовательский каталог плагинов",
-  "author": "gugos269-glf",
+  "name": "exterastore",
+  "description": "плагины из экстерастор",
+  "author": "d1zzy412",
   "plugins": [
     {
       "id": "my_first_plugin",
-      "name": "Тестовый плагин",
-      "description": "Описание плагина",
+      "name": "exterastore",
+      "description": "плагины из экстерастор",
       "version": "1.0.0",
-      "author": "gugos269-glf",
-      "url": "https://githubusercontent.com"
+      "author": "d1zzy412",
+      "url": "https://www.exterastore.app/"
     }
   ]
 }
